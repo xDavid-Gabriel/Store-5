@@ -19,7 +19,7 @@ export default function Footer() {
             </p>
           </div>
           <div className="col-12 col-md-6 col-lg-3">
-            <h2>Valores</h2>
+            <h2>Sedes</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti
               nemo laborum adipisci, eligendi architecto asperiores praesentium
